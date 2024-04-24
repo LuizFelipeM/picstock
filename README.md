@@ -1,6 +1,19 @@
 # Picstock
 Picstock the Web3 image stock solution
 
+## Atomic Design System
+
+The project uses the Atomic Design standard following the hierarch below:
+- Pages
+- Templates
+- Organisms
+- Molecules
+- Atoms
+
+## Conventions
+
+We use Husky and Commitizen with Conventional commits for better
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
