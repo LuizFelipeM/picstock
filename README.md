@@ -12,7 +12,7 @@ The project uses the Atomic Design standard following the hierarch below:
 
 ## Conventions
 
-We use Husky and Commitizen with Conventional commits for better
+We use Husky and Commitizen with Conventional commits for better convetion
 
 ## React + TypeScript + Vite
 
